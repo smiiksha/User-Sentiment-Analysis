@@ -3,7 +3,6 @@ User Sentiment Analysis and Website Return Prediction System
 B.Tech ML Project - Medium Level
 Author: Samiksha Rana
 """
-
 # ============================================
 # 1. IMPORT LIBRARIES
 
@@ -48,7 +47,6 @@ print("STEP 1: LOADING DATASET")
 print("="*60)
 
 # Load the dataset
-# Note: Download from Kaggle and place in same directory
 # https://www.kaggle.com/datasets/nicapotato/womens-ecommerce-clothing-reviews
 
 df = pd.read_csv('Womens Clothing E-Commerce Reviews.csv')
@@ -64,7 +62,6 @@ print(df.info())
 
 # ============================================
 # 3. EXPLORATORY DATA ANALYSIS
-# ============================================
 
 print("\n" + "="*60)
 print("STEP 2: EXPLORATORY DATA ANALYSIS")
