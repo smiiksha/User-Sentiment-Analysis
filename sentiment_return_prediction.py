@@ -1,12 +1,11 @@
 """
 User Sentiment Analysis and Website Return Prediction System
 B.Tech ML Project - Medium Level
-Author: [Your Name]
+Author: Samiksha Rana
 """
 
 # ============================================
 # 1. IMPORT LIBRARIES
-# ============================================
 
 import pandas as pd
 import numpy as np
