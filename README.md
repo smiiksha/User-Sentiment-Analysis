@@ -21,7 +21,6 @@ A machine learning project that analyzes customer review sentiment and predicts 
 - [Results](#results)
 - [Streamlit Web App](#streamlit-web-app)
 - [Future Improvements](#future-improvements)
-- [Contributors](#contributors)
 
 ---
 
@@ -336,7 +335,6 @@ This project demonstrates:
 
 **Project Type:** B.Tech Final Year Project  
 **Complexity Level:** Medium  
-**Suitable For:** 3rd/4th Year Computer Science/IT Students  
 **Domain:** Machine Learning + NLP  
 **Duration:** 2-3 weeks
 
@@ -352,18 +350,6 @@ This project demonstrates:
 
 ---
 
-## 📞 Contributors
-
-**[Your Name]**  
-B.Tech Computer Science  
-[Your University]
-
-**Contact:**
-- Email: your.email@example.com
-- LinkedIn: [Your Profile]
-- GitHub: [@yourusername](https://github.com/yourusername)
-
----
 
 ## 📄 License
 
@@ -371,7 +357,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-## 🙏 Acknowledgments
+##  Acknowledgments
 
 - Dataset: [Kaggle - Women's E-Commerce Clothing Reviews](https://www.kaggle.com/datasets/nicapotato/womens-ecommerce-clothing-reviews)
 - Scikit-learn Documentation
@@ -384,5 +370,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-**Last Updated:** March 2024  
+**Last Updated:** March 2026
 **Version:** 1.0.0
