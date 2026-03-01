@@ -19,7 +19,6 @@ A machine learning project that analyzes customer review sentiment and predicts 
 - [How to Run](#how-to-run)
 - [Model Performance](#model-performance)
 - [Results](#results)
-- [Streamlit Web App](#streamlit-web-app)
 - [Future Improvements](#future-improvements)
 
 ---
@@ -92,7 +91,6 @@ Customer retention is crucial for e-commerce success. By analyzing review sentim
 3. Support Vector Machine (SVM)
 
 ### Additional Tools:
-- **Streamlit** - Web application (optional)
 - **pickle** - Model serialization
 
 ---
@@ -190,12 +188,6 @@ python sentiment_return_prediction.py
 
 ---
 
-### Run Streamlit Web App (Optional):
-```bash
-streamlit run streamlit_app.py
-```
-
-Access the app at: `http://localhost:8501`
 
 **Features:**
 - Enter custom review text
@@ -264,23 +256,6 @@ Access the app at: `http://localhost:8501`
 
 ---
 
-## 🌐 Streamlit Web App
-
-The project includes an interactive web application:
-
-### Features:
-- 📝 Enter custom review text
-- ⭐ Input rating and customer details
-- 💭 Real-time sentiment analysis
-- 🎯 Return prediction with confidence score
-- 💡 Automated business recommendations
-- 📊 Visual analytics
-
-### Screenshots:
-![App Interface](screenshots/app_interface.png)
-
----
-
 ## 🔮 Future Improvements
 
 ### Technical Enhancements:
@@ -328,32 +303,6 @@ This project demonstrates:
 - ✅ Feature engineering
 - ✅ Data visualization
 - ✅ Model deployment basics
-
----
-
-## 🎓 Academic Details
-
-**Project Type:** B.Tech Final Year Project  
-**Complexity Level:** Medium  
-**Domain:** Machine Learning + NLP  
-**Duration:** 2-3 weeks
-
-### Viva Topics to Prepare:
-- Text preprocessing techniques
-- TF-IDF vs Bag of Words
-- Sentiment analysis methods
-- Classification algorithms
-- Evaluation metrics
-- Overfitting and regularization
-- Train-test split importance
-- Hyperparameter tuning
-
----
-
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
 
